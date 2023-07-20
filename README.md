@@ -2,9 +2,9 @@
 
 Junior Web Developer - Essex, UK
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqjameskhan" alt="tariqjameskhan" /></a> </p>
-
+<p align="left">
 :mortar_board: Recent Graduate from Le Wagon Web Devlopment Bootcamp.
-:man_firefighter: Ex-Firefighter - Very experienced at working under pressure :flushed:
+:man_firefighter: Ex-Firefighter - Very experienced at working under pressure :flushed: </p>
 
 Projects: 
 - [FRS-One](https://www.frs-one.me) - Fire Risk Assessment auditing software.
