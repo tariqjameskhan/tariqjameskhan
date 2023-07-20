@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 Junior Web Developer - Essex, UK
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqjameskhan" alt="tariqjameskhan" /></a> </p>
-<p align="left">
-:mortar_board: Recent Graduate from Le Wagon Web Devlopment Bootcamp.
+<p align="left">:mortar_board: Recent Graduate from Le Wagon Web Devlopment Bootcamp.
 :man_firefighter: Ex-Firefighter - Very experienced at working under pressure :flushed: </p>
+
 
 Projects: 
 - [FRS-One](https://www.frs-one.me) - Fire Risk Assessment auditing software.
@@ -17,6 +16,8 @@ Projects:
 <p align="left">
 <a href="https://linkedin.com/in/tariqjameskhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tariqjameskhan" height="30" width="40" /></a>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqjameskhan" alt="tariqjameskhan" /></a> </p>
+<p align="left">
 <!--
 **tariqjameskhan/tariqjameskhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
