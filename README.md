@@ -16,10 +16,10 @@ Projects:
 <p align="left">
 <a href="https://linkedin.com/in/tariqjameskhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tariqjameskhan" height="30" width="40" />  </a>
 </p>
-<p>
-  
-</p>
 
+### Check out my portfolio:
+
+- [Portfolio](https://tariqjameskhan.notion.site/Tariq-Khan-Portfolio-d5c80366a5f348eab809bfa2cef23a34?pvs=4)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqjameskhan" alt="tariqjameskhan" /></a> </p>
 <p align="left">
